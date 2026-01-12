@@ -1,0 +1,7 @@
+{
+  "name": "Clinique Dentaire Saint-Laurent",
+  "description": "Une landing page haut de gamme pour une clinique dentaire à Montréal, offrant des soins modernes et une expérience patient exceptionnelle.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}

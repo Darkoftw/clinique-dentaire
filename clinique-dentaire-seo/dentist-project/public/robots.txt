@@ -1,0 +1,15 @@
+# Robots.txt - Clinique Dentaire Saint-Laurent
+# https://cliniquedentairesaintlaurent.ca
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cliniquedentairesaintlaurent.ca/sitemap.xml
+
+# Bloquer les pages inutiles pour le SEO
+Disallow: /api/
+Disallow: /*.json$
+
+# Crawl-delay pour être gentil avec le serveur
+Crawl-delay: 1
